@@ -4,7 +4,7 @@ A responsive and user-friendly Weather Application built using HTML, CSS, and Ja
 It uses a real-time weather API to display the current temperature, humidity, wind speed, and weather conditions of any city searched by the user.
 
 
-Live Demo:-
+Live Demo:-https://supriyode2002.github.io/weather-app/
 
 Features:-
 
@@ -36,7 +36,8 @@ OpenWeatherMap API – Real-time weather data
 
 
 
-Screenshots
+Screenshots:-<img width="1912" height="824" alt="image" src="https://github.com/user-attachments/assets/fe2a8a64-e1d2-4b57-9b3d-10caaedf80e2" />
+
 
 
 Folder Structure
